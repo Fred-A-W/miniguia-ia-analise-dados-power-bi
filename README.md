@@ -540,14 +540,3 @@ Frederico de Azevedo Werneck
 Projeto desenvolvido para o desafio da DIO — Inteligência Artificial como ferramenta de aprendizagem ativa.
 
 ⭐ Projeto desenvolvido com foco em Inteligência Artificial, Análise de Dados, Power BI, DAX e Engenharia de Prompts.
-
-
-### Depois de colar
-
-No final da página do GitHub, faça:
-
-**Commit changes → Commit directly to the `main` branch → Commit changes.**
-
-Eu recomendo **não mexer mais no texto por enquanto**. Depois que você salvar, me diga **"README publicado"**.
-
-Aí vamos fazer a próxima etapa: **organizar o repositório com os arquivos `fontes`, `prompts` e `miniguia`*
